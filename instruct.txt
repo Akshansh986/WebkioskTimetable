@@ -1,0 +1,1 @@
+Crate nflink.txt with template as nflink_template.txt to push notifications to users.
