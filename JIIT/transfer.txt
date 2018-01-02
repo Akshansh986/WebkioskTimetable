@@ -1,10 +1,10 @@
 transfers
-p2.txt$q3v2.txt
-p4.txt$q5v3.txt
-p6.txt$q7v2.txt
-p6v2.txt$q7v2.txt
 q3.txt$q3v2.txt
 q1.txt$q1v2.txt
 q5.txt$q5v3.txt
 q5v2.txt$q5v3.txt
 q7.txt$q7v2.txt
+q1v2.txt$q2.txt
+q3v2.txt$q4.txt
+q5v3.txt$q6.txt
+q7v2.txt$q8.txt
